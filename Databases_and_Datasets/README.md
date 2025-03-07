@@ -87,3 +87,7 @@ Explore a curated collection of databases and resources tailored for graph machi
 **LINCS L1000**
    - **Link**: [LINCS L1000](http://www.lincsproject.org/LINCS/)
    - **Description**: Provides gene expression signatures in response to a variety of drug and genetic perturbations, facilitating the understanding of compound mechanisms of action.
+
+**COCONUTS**
+   - **Link**: [COCONUTS](https://coconut.naturalproducts.net/)
+   - **Description**: The COlleCtion of Open NatUral producTs (COCONUT) is a comprehensive platform facilitating natural product research by providing data, tools, and services for deposition, curation, and reuse.
